@@ -1,0 +1,19 @@
+.fclass{
+    background: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+#para{
+    text-align: center;
+    background: chartreuse;
+     color: white;
+    font-size: 18px;
+}
+.button{
+text-align: center;}
+button{
+    background-color: orange;
+    font-size: 18px;
+}

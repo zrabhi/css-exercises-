@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+html, body {
+    height: 100%;
+}
+body {
+    font-family: Roboto, sans-serif;
+    background: cornflowerblue;
+    margin:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal{
+    background: rgb(243, 240, 240);
+    border-radius: 10px;
+    box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+    width: 480px;
+    display: flex;
+    gap: 16px;
+    padding: 16px;
+    /* padding-bottom: 0px; */
+    margin-top: 32px;
+}
+.sign{
+    background: lavender;
+    color:rgb(13, 100, 182);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 3px;
+    border-radius: 50%;
+    width: 42px;
+    height: 40px;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+}
+.close-button{
+    /* background: #eee; */
+    background: #eee;
+    border-radius: 60%;
+    color: #888;
+    font-weight: 400;
+    height: 24px;
+    width: 24px;
+    font-size: 16px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
+
+.assignement{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+button{
+    padding:8px 16px;
+    border-radius: 8px;
+}
+
+.continue{
+    background: royalblue;
+    color: white;
+    font-size: 12px;
+    padding: 8px 14px;
+    border: 1px royalblue;
+    border-radius: 6px;
+}
+.cancle{
+    background-color:white ;
+    color: royalblue;
+    /* font-size: 12px; */
+    padding: 8px 14px;
+    border: 1px solid  #ddd;
+    border-radius: 6px;
+}
+.text{
+    margin-bottom: 16px;
+}

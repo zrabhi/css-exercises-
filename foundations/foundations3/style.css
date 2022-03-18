@@ -1,0 +1,13 @@
+.element,
+.second{
+    font-family: HAlvetica ,'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.second{
+    background:yellow;
+    color: black;
+}
+.element{
+    background: black;
+    color: white;
+}

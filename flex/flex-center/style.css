@@ -1,0 +1,21 @@
+.container{
+    align-items: center;
+    background: blue;
+    border: 4px solid midnightblue;
+    border-radius: 4px;
+    width: 300px;
+    height: 400px;
+    display: flex; 
+    align-items:center ; 
+    justify-content: center;
+}
+.box{
+    border: 6px solid maroon;
+    border-radius: 6px;
+    background: blueviolet;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+}

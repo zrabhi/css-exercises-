@@ -1,0 +1,27 @@
+.para-f,
+.para-s{
+    color :red;
+}
+.para-f{
+    font-size:22px;
+}
+#first{
+    background-color: green;
+    color:honeydew;
+    font-size: 22px;
+    font-weight: bold;
+}
+#second{
+    background-color: white ;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+}
+div.text{ 
+    font-size: 22px;
+    color: green;
+}
+div.child{
+    color: red;
+    font-size: 14px;
+}
